@@ -1,0 +1,33 @@
+Analyzing images/street.jpg
+Description: a person walking a dog on a street (confidence: 45.83%)
+Tags:
+ -outdoor (confidence: 99.87%)
+ -land vehicle (confidence: 99.02%)
+ -vehicle (confidence: 98.89%)
+ -building (confidence: 98.55%)
+ -road (confidence: 95.98%)
+ -wheel (confidence: 95.14%)
+ -street (confidence: 94.71%)
+ -person (confidence: 93.01%)
+ -clothing (confidence: 91.19%)
+ -taxi (confidence: 90.95%)
+ -animal (confidence: 90.44%)
+ -car (confidence: 84.01%)
+ -dog (confidence: 82.68%)
+ -yellow (confidence: 77.08%)
+ -walking (confidence: 74.11%)
+ -city (confidence: 64.80%)
+ -woman (confidence: 57.53%)
+Categories:
+ -outdoor_ (confidence: 0.39%)
+ -outdoor_road (confidence: 55.86%)
+Objects in image:
+ -car (confidence: 72.40%)
+ -taxi (confidence: 77.00%)
+ -person (confidence: 78.10%)
+ -dog (confidence: 54.40%)
+  Results saved in objects.jpg
+Ratings:
+ -Adult: False
+ -Racy: False
+ -Gore: False
