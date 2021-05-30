@@ -9,4 +9,4 @@ The images from the "images" folder are analysed to retrieve the following featu
 6. Ratings
 
 The results of analysis are written into the "output.txt" file.
-Post that, it generates a thumbnail of the image and stores it in the "output" folder
+Post that, it generates a thumbnail of the image and stores it in the "output" folder.
